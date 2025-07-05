@@ -1,0 +1,9 @@
+# Python + Flask
+__pycache__/
+*.pyc
+.env
+.venv/
+*.pkl
+
+# VS Code
+.vscode/
