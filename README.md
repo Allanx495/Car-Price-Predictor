@@ -1,5 +1,7 @@
 # 🚗 Car Price Predictor
-
+Objective:
+Helping automobile buyers and sellers make smarter decisions by building a ML model based on essential features, and to bring overall transparency to the market.
+--- 
 This is a Flask-based web application that predicts the price of a car based on its specifications like max power, engine size, fuel type, brand, year, and number of seats. The backend model was trained using historical car data and deployed using `joblib` for real time predictions via a user-friendly web form.
 
 ---
