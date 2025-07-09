@@ -1,4 +1,5 @@
-# 🚗 Car Price Predictor
+# <img src="https://media1.giphy.com/media/RIYlDuzPKzRNiNkgHm/giphy.gif" width="32"/> Car Price Predictor
+
 Objective:
 Helping automobile buyers and sellers make smarter decisions by building a ML model based on essential features, and to bring overall transparency to the market.
 --- 
